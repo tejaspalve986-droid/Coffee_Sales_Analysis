@@ -1,3 +1,7 @@
+
+<img width="1395" height="542" alt="image" src="https://github.com/user-attachments/assets/c2bbd486-5367-4224-a9eb-19ef30b0adfc" />
+
+
 # Coffee Sales Analysis
 
 ## Project View
